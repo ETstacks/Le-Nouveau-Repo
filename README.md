@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 LOCAL
 # Le-Nouveau-Repo
 Repo exercice ( GIT ub)
